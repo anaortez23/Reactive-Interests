@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.custom-header {
+  background-color: cornflowerblue; 
+  color: white;
+  padding: 16px;
+  text-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
